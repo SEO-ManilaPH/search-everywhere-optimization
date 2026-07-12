@@ -95,9 +95,12 @@ Modern optimization now includes visibility across:
 ---
 
 # About
+## About SEO-Manila
 
-Created by Cris Magno  
-SEO Strategist | Semantic SEO Specialist | AI Search Optimization Consultant
+Created by Cris Magno, an SEO strategist focused on modern search visibility, semantic SEO, entity optimization, and AI-search optimization.
 
-Website:
-https://seo-manilaph.com/
+The Search Everywhere Optimization framework is informed by practical SEO work at [SEO outsourcing in the Philippines](https://seo-manilaph.com/), where search strategy connects rankings, search intent, content opportunities, and conversion potential.
+
+Explore our [onsite SEO services](https://seo-manilaph.com/seo-onsite/) for technical and page-level optimization, content alignment, semantic relevance, and website search performance.
+
+International businesses looking for an experienced [SEO agency in the Philippines](https://seo-manilaph.com/seo-agency-philippines/) can learn more about SEO-Manila's approach to organic search and AI-search visibility.
