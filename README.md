@@ -139,7 +139,7 @@ Modern content should answer questions clearly and directly to improve visibilit
 
 ## 4. Generative Engine Optimization (GEO)
 
-Generative Engine Optimization helps AI systems understand and retrieve your content more accurately by improving:
+Generative Engine Optimization performs best when location-aware content is supported by technically optimized landing pages and authoritative entity signals. Learn how our **[Onsite SEO Services](https://seo-manilaph.com/seo-onsite/)** and **[Offsite SEO Services](https://seo-manilaph.com/seo-offsite/)** work together to improve AI retrieval, local relevance, and search visibility.
 
 - Context
 - Semantic completeness
@@ -152,7 +152,7 @@ Generative Engine Optimization helps AI systems understand and retrieve your con
 
 ## Search Everywhere Ecosystem
 
-Modern visibility now extends across:
+Modern visibility now extends across: SEO Manila helps businesses improve visibility across these platforms through technical SEO, semantic optimization, authority building, and AI Retrieval Engineering. Learn more about our complete **[Search Everywhere Optimization Framework](https://seo-manilaph.com/)**.
 
 - Google Search
 - Google AI Overviews
@@ -178,17 +178,12 @@ Our practical SEO strategies combine technical optimization, semantic content en
 
 ## Onsite SEO Services
 
-A strong Offsite SEO campaign starts with a technically optimized website. Our **Onsite SEO Services** focus on technical SEO, semantic content optimization, internal linking, crawlability, Core Web Vitals, structured data, metadata optimization, content architecture, user experience, and topical relevance to create a solid foundation for long-term organic growth.
+Our **[Onsite SEO Services](https://seo-manilaph.com/seo-onsite/)** focus on technical SEO, semantic optimization, metadata, structured data, internal linking, crawlability, Core Web Vitals, content architecture, and user experience to build a strong foundation for long-term organic growth.
 
-➡️ https://seo-manilaph.com/seo-onsite/
-
----
 
 ## Offsite SEO Services
 
-Modern Offsite SEO extends far beyond backlink building. Our **Offsite SEO Services** combine Entity SEO, Authority Hub Networks, contextual link building, Google Entity Stacks, digital PR, local citations, authority content marketing, and semantic authority reinforcement to improve trust, rankings, AI visibility, and long-term business growth.
-
-➡️ https://seo-manilaph.com/seo-offsite/
+Our **[Offsite SEO Services](https://seo-manilaph.com/seo-offsite/)** combine Entity SEO, contextual link building, Google Entity Stacks, authority content marketing, digital PR, local citations, and brand mentions to strengthen trust, authority, and long-term search visibility.
 
 ---
 
@@ -216,9 +211,7 @@ Our Search Everywhere Optimization methodology integrates:
 
 Website:
 
-➡️Learn more about our complete Search Everywhere Optimization methodology, technical SEO services, authority-building strategies, and AI search optimization:
-
-https://seo-manilaph.com/
+Learn more about our complete **[Search Everywhere Optimization](https://seo-manilaph.com/)** methodology, which integrates Technical SEO, Onsite SEO, Offsite SEO, Entity SEO, Semantic SEO, AEO, GEO, and AI Retrieval Engineering into one unified strategy.
 
 ---
 
@@ -230,17 +223,9 @@ If you're exploring individual frameworks, we recommend learning these cornersto
 
 ## Connect With SEO Manila
 
-Website
-https://seo-manilaph.com/
-
-Onsite SEO
-https://seo-manilaph.com/seo-onsite/
-
-Offsite SEO
-https://seo-manilaph.com/seo-offsite/
-
-SEO Agency Philippines
-https://seo-manilaph.com/seo-agency-philippines/
+- **[Search Everywhere Optimization](https://seo-manilaph.com/)**
+- **[Onsite SEO Services](https://seo-manilaph.com/seo-onsite/)**
+- **[Offsite SEO Services](https://seo-manilaph.com/seo-offsite/)**
 
 ---
 
