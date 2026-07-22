@@ -6,13 +6,7 @@ Modern SEO is no longer just about ranking on Google.
 
 Search Everywhere Optimization is a modern search visibility framework that combines **SEO, Answer Engine Optimization (AEO), Generative Engine Optimization (GEO), Entity SEO, Semantic SEO, Behavioral SEO, and AI Retrieval Engineering** to improve visibility across Google Search, Google AI Overviews, ChatGPT, Gemini, Claude, Perplexity, Bing Copilot, YouTube, Reddit, GitHub, LinkedIn, Medium, and other AI-powered search ecosystems.
 
-The framework combines both **technical website optimization** and **authority building**. Learn more about our **Onsite SEO Services** for technical optimization and semantic content architecture:
-
-https://seo-manilaph.com/seo-onsite/
-
-To strengthen website authority through Entity SEO, contextual link building, Google Entity Stacks, and digital PR, explore our **Offsite SEO Services**:
-
-https://seo-manilaph.com/seo-offsite/
+The framework combines both technical website optimization and authority building. Learn more about our **[Onsite SEO Services](https://seo-manilaph.com/seo-onsite/)** for technical optimization, semantic content architecture, internal linking, structured data, and Core Web Vitals optimization. To strengthen website authority through Entity SEO, contextual link building, Google Entity Stacks, and digital PR, explore our **[Offsite SEO Services](https://seo-manilaph.com/seo-offsite/)**.
 
 The objective is simple: create semantically complete, retrieval-friendly, AI-citable content ecosystems that improve rankings, strengthen authority, and generate qualified leads across multiple search platforms.
 
