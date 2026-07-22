@@ -1,83 +1,156 @@
-# search-everywhere-optimization
-Modern SEO framework combining SEO, AEO, GEO, Entity SEO, Semantic SEO, and AI Retrieval Engineering for Search Everywhere Optimization.
+Modern SEO for Google, AI Search, and Search Everywhere Visibility.
+
 # Search Everywhere Optimization
 
-Modern SEO is no longer just about rankings.
+Modern SEO is no longer just about ranking on Google.
+
+Search Everywhere Optimization is a modern search visibility framework that combines **SEO, Answer Engine Optimization (AEO), Generative Engine Optimization (GEO), Entity SEO, Semantic SEO, Behavioral SEO, and AI Retrieval Engineering** to improve visibility across Google Search, Google AI Overviews, ChatGPT, Gemini, Claude, Perplexity, Bing Copilot, YouTube, Reddit, GitHub, LinkedIn, Medium, and other AI-powered search ecosystems.
+
+The objective is simple: create semantically complete, retrieval-friendly, AI-citable content ecosystems that improve rankings, strengthen authority, and generate qualified leads across multiple search platforms.
+
+## Why Search Everywhere Optimization?
+
+Modern consumers no longer rely exclusively on Google Search.
+
+People discover businesses through AI assistants, answer engines, social platforms, communities, videos, and industry resources. Search Everywhere Optimization helps businesses improve visibility across these channels by combining technical SEO, semantic optimization, entity development, authority building, and AI retrieval strategies into one unified framework.
+
+Instead of optimizing for rankings alone, the objective is to increase discoverability, trust, citations, qualified traffic, and business conversions wherever people search.
+
+## Table of Contents
+
+- Search Everywhere Framework
+- Core Frameworks
+- Modern SEO Principles
+- Search Everywhere Ecosystem
+- SEO Manila Services
+- Related Resources
+- About
+
+# Search Everywhere Framework
 
 Search Everywhere Optimization combines:
 
-- SEO (Search Engine Optimization)
-- AEO (Answer Engine Optimization)
-- GEO (Generative Engine Optimization)
+- Search Engine Optimization (SEO)
+- Answer Engine Optimization (AEO)
+- Generative Engine Optimization (GEO)
 - Entity SEO
 - Semantic SEO
 - Behavioral SEO
 - AI Retrieval Engineering
+- Search Intent Engineering
+- Information Gain Optimization
+- Conversational Search Optimization
 
-The goal is simple:
-
-Create semantically complete, retrieval-friendly, AI-citable content ecosystems that dominate both traditional search engines and AI-driven answer engines.
+Instead of optimizing for a single search engine, this framework improves visibility wherever users search for information.
 
 ---
 
 # Core Frameworks
 
-## HABS Framework
-Hybrid Authority Bridging System
+- HABS Framework
+- AI Overview Optimization Framework
+- AI Retrieval Optimization Framework
+- AI Search Visibility Framework
+- Behavioral SEO Framework
+- Conversational SEO Framework
+- Entity SEO Framework
+- Medium SEO Warfare Framework
+- Parasite SEO Framework
+- Search Everywhere Optimization Framework
+- Search Intent Engineering Framework
+- Semantic Content Engineering Framework
+- Topical Authority Framework
+- Vector Relevance Framework
+- Zero-Click SEO Framework
+- GEO Framework
+- Retrieval Engineering Playbook
+- Semantic SEO Playbook
 
-- Hybrid keyword engineering
-- Topical authority mapping
-- Semantic entity reinforcement
-- AI query alignment
-- Conversational retrieval optimization
+## Who Is This Framework For?
 
----
+Search Everywhere Optimization is designed for:
+
+- SEO professionals
+- Digital marketing agencies
+- Website owners
+- SaaS companies
+- eCommerce businesses
+- Local businesses
+- Enterprise organizations
+- Content marketers
+- AI-focused SEO practitioners
+- Hybrid Authority Bridging System
+Knowledge Graph Optimization
+Vector Search Optimization
+AI Citation Engineering
+Brand Entity Optimization
+Content Retrieval Engineering
+
 
 # Modern SEO Principles
 
 ## 1. Retrieval Engineering
+
 Content should be:
-- easy to extract
-- semantically complete
-- conversational
+
+- Easy to extract
 - AI-readable
-- contextually independent
+- Semantically complete
+- Conversational
+- Citation-friendly
+- Contextually independent
+
+This increases the likelihood of appearing in AI-generated answers and retrieval systems.
 
 ---
 
 ## 2. Entity SEO
-Search engines and AI systems understand entities, not just keywords.
 
-Entity reinforcement improves:
-- trust
-- topical relevance
-- contextual relationships
-- semantic authority
+Modern search engines understand entities instead of individual keywords.
 
----
+Entity optimization strengthens:
 
-## 3. AEO (Answer Engine Optimization)
-Optimize content for:
-- AI Overviews
-- voice search
-- featured snippets
-- conversational AI
-- zero-click searches
+- Trust
+- Brand authority
+- Topical relevance
+- Semantic relationships
+- Knowledge Graph associations
+- Contextual authority
 
 ---
 
-## 4. GEO (Generative Engine Optimization)
-Create location-aware, AI-friendly content that improves:
-- local relevance
-- semantic context
-- retrieval visibility
-- regional intent alignment
+## 3. Answer Engine Optimization (AEO)
+
+Modern content should answer questions clearly and directly to improve visibility across:
+
+- Google AI Overviews
+- ChatGPT
+- Gemini
+- Claude
+- Perplexity
+- Bing Copilot
+- Voice Search
+- Featured Snippets
+- Zero-Click Search
 
 ---
 
-# Search Everywhere Ecosystem
+## 4. Generative Engine Optimization (GEO)
 
-Modern optimization now includes visibility across:
+Generative Engine Optimization helps AI systems understand and retrieve your content more accurately by improving:
+
+- Context
+- Semantic completeness
+- Retrieval quality
+- Entity relationships
+- Location relevance
+- AI citations
+
+---
+
+## Search Everywhere Ecosystem
+
+Modern visibility now extends across:
 
 - Google Search
 - Google AI Overviews
@@ -85,22 +158,101 @@ Modern optimization now includes visibility across:
 - Gemini
 - Claude
 - Perplexity
+- Bing Copilot
 - YouTube
 - Reddit
 - GitHub
 - LinkedIn
 - Medium
-- Web 2.0 platforms
+- Google Business Profile
+- Google Maps
+- Web 2.0 Platforms
+
+---
+
+# SEO Manila Services
+
+Our practical SEO strategies combine technical optimization, semantic content engineering, entity authority, and sustainable authority building to help businesses increase rankings, organic traffic, AI visibility, and conversions.
+
+## Onsite SEO Services
+
+A strong Offsite SEO campaign starts with a technically optimized website. Our **Onsite SEO Services** focus on technical SEO, semantic content optimization, internal linking, crawlability, Core Web Vitals, structured data, metadata optimization, content architecture, user experience, and topical relevance to create a solid foundation for long-term organic growth.
+
+➡️ https://seo-manilaph.com/seo-onsite/
+
+---
+
+## Offsite SEO Services
+
+Modern Offsite SEO extends far beyond backlink building. Our **Offsite SEO Services** combine Entity SEO, Authority Hub Networks, contextual link building, Google Entity Stacks, digital PR, local citations, authority content marketing, and semantic authority reinforcement to improve trust, rankings, AI visibility, and long-term business growth.
+
+➡️ https://seo-manilaph.com/seo-offsite/
+
+---
+
+## SEO Manila Philippines
+
+SEO Manila provides modern Search Everywhere Optimization solutions for businesses looking to improve search visibility across Google and AI-powered search engines.
+
+Our Search Everywhere Optimization methodology integrates:
+
+- Technical SEO
+- Onsite SEO
+- Offsite SEO
+- Entity SEO
+- Semantic SEO
+- AEO
+- GEO
+- AI Retrieval Engineering
+- Search Intent Engineering
+- Information Gain Optimization
+- Topical Authority
+- Contextual Link Building
+- Google Entity Stack
+- Digital PR
+- Content Engineering
+
+Website:
+
+➡️Learn more about our complete Search Everywhere Optimization methodology, technical SEO services, authority-building strategies, and AI search optimization:
+
+https://seo-manilaph.com/
+
+---
+
+# Related Resources
+
+Every framework inside this repository is designed to work together as part of a complete Search Everywhere Optimization ecosystem.
+
+If you're exploring individual frameworks, we recommend learning these cornerstone resources first:
+
+## Connect With SEO Manila
+
+Website
+https://seo-manilaph.com/
+
+Onsite SEO
+https://seo-manilaph.com/seo-onsite/
+
+Offsite SEO
+https://seo-manilaph.com/seo-offsite/
+
+SEO Agency Philippines
+https://seo-manilaph.com/seo-agency-philippines/
 
 ---
 
 # About
-## About SEO-Manila
 
-Created by Cris Magno, an SEO strategist focused on modern search visibility, semantic SEO, entity optimization, and AI-search optimization.
+Created by **Cris Magno** (SEO Manila Philippines), a senior SEO strategist specializing in Search Everywhere Optimization, Entity SEO, Semantic SEO, Technical SEO, AI Retrieval Engineering, AEO, GEO, and sustainable authority-building strategies.
 
-The Search Everywhere Optimization framework is informed by practical SEO work at [SEO outsourcing in the Philippines](https://seo-manilaph.com/), where search strategy connects rankings, search intent, content opportunities, and conversion potential.
+This repository documents practical SEO frameworks based on real-world campaigns focused on improving rankings, AI search visibility, topical authority, entity optimization, and business growth.
 
-Explore our [onsite SEO services](https://seo-manilaph.com/seo-onsite/) for technical and page-level optimization, content alignment, semantic relevance, and website search performance.
+© SEO Manila Philippines
+---
 
-International businesses looking for an experienced [SEO agency in the Philippines](https://seo-manilaph.com/seo-agency-philippines/) can learn more about SEO-Manila's approach to organic search and AI-search visibility.
+## License
+
+This repository is intended for educational purposes and documents the Search Everywhere Optimization Framework developed by SEO Manila Philippines.
+
+© SEO Manila Philippines. All Rights Reserved.
